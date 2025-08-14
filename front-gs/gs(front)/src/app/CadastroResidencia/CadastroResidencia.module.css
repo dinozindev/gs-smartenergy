@@ -1,0 +1,73 @@
+.container{
+    background: linear-gradient(to bottom, #47BFDF, #4A91FF);
+    width: 60%;
+    margin-left: 20%;
+    border-radius: 2vw;
+    margin-top: 20vw;
+}
+.titulo{
+    font-family: "Kodchasan", sans-serif;
+    color: #fff;
+    text-align: center;
+    font-size: 5vw;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 15vw;
+    padding-top: 10vw;
+    margin-bottom: 5vw;
+}
+.input
+{
+    text-align: center;
+    font-family: "Kodchasan", sans-serif;
+    font-size: 3vw;
+    border: none;
+    border-radius: 1vw;
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 4vw;
+    height: 5vw;
+}
+.divisor{
+    width: 80%;
+    background-color: black;
+    height: 0.3vw;
+    border-radius: 1vw;
+    margin-left: 10%;
+    margin-bottom: 4vw;
+}
+.botaoSalvar{
+    border: none;
+    text-align: center;
+    background-color: #00DF7B;
+    font-size: 3vw;
+    width: 80%;
+    margin-left: 10%;
+    color: white;
+    font-family: "Kodchasan", sans-serif;
+    border-radius: 1vw;
+    height: 5vw;
+    margin-bottom: 3vw;
+}
+.botaoSalvar:hover{
+    background-color: #4A91FF;
+    color: black;
+    border: 0.3VW solid #47BFDF;
+}
+.botaoVoltar{
+    background-color: salmon;
+    width: 80%;
+    font-family: "Kodchasan", sans-serif;
+    border-radius: 1vw;
+    margin-left: 10%;
+    height: 5vw;
+    border: none;
+    color: #000;
+    margin-bottom: 3vw;
+    font-size: 3vw;
+}
+.botaoVoltar:HOVER{ 
+    color: white;
+    border: red;
+    background-color: rgb(255, 90, 71);
+}

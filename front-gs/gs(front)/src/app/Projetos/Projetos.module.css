@@ -1,0 +1,49 @@
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .projetoContainer {
+    background-color: #cde5f5;
+    border-radius: 1vw;
+    width: 80%;
+    padding: 1vw;
+    margin-top: 3vw;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 3vw;
+  }
+  .titulo{
+    font-size: 4vw;
+    text-align: center;
+    font-family: "Kodchasan", sans-serif;
+    margin-top: 20vw;
+  } 
+  .nomeProjeto {
+    font-size: 2.5vw;
+    font-weight: bold;
+    color: #313131;
+    font-family: "Kodchasan", sans-serif;
+  }
+  .descricao {
+    font-size: 2vw;
+    color: #666;
+    font-family: "Kodchasan", sans-serif;
+  }
+  .custo {
+    font-size:2vw;
+    font-weight: bold;
+    color: #444;
+    font-family: "Kodchasan", sans-serif;
+  }
+  .status {
+    font-size: 2vw;
+    color: #4caf50;
+    font-family: "Kodchasan", sans-serif;
+  }
+  .tipoFonte,
+  .regiao {
+    font-size: 2vw;
+    color: #555;
+    font-family: "Kodchasan", sans-serif;
+  }

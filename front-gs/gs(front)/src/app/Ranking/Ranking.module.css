@@ -1,0 +1,120 @@
+@media screen and (min-width: 320px) and (max-width: 740px) {
+.textorecepcao{
+    font-size: 2vw;
+    width: 60%;
+    margin-left: 20%;
+    text-align: center;
+    font-family: "Kodchasan", sans-serif;
+    margin-bottom: 5vw;
+}
+.rankingContainer{
+    background: linear-gradient(to bottom, #47BFDF, #4A91FF);
+    width: 70%;
+    border-radius: 1vw;
+    margin-left: 15%;
+    margin-top: 5vw;
+}
+.titulo{
+    font-size: 3vw;
+    font-family: "Kodchasan", sans-serif;
+    color: black;
+    text-align: center;
+    margin-top: 20vw;
+}
+.legenda{
+    color: #FFF;
+    font-family: "Kodchasan", sans-serif;
+    font-size: 2vw;
+}
+.legenda2{
+    color: #FFF;
+    font-family: "Kodchasan", sans-serif;
+    font-size: 2vw;
+    position: relative;
+    left: 5vw;
+}
+.legenda3{
+    color: #FFF;
+    font-family: "Kodchasan", sans-serif;
+    font-size: 2vw;
+    position: relative;
+    left: 11.5vw;
+}
+.legenda4{
+    color: #FFF;
+    font-family: "Kodchasan", sans-serif;
+    font-size: 2vw;
+    position: relative;
+    left: 9vw;
+}
+.divisor1{
+    width: 100%;
+    height: 3vw;
+}
+.linedivisor{
+    width: 90%;
+    margin-left: 5%;
+    background-color: black;
+    height: 5.3vw;
+}
+}
+@media screen and (min-width: 741px) and (max-width: 1024px) {
+    .textorecepcao{
+        font-size: 2vw;
+        width: 60%;
+        margin-left: 20%;
+        text-align: center;
+        font-family: "Kodchasan", sans-serif;
+        margin-bottom: 5vw;
+    }
+    .rankingContainer{
+        background: linear-gradient(to bottom, #47BFDF, #4A91FF);
+        width: 80%;
+        border-radius: 1vw;
+        margin-left: 10%;
+     
+    }
+    .titulo{
+        font-size: 3vw;
+        font-family: "Kodchasan", sans-serif;
+        color: black;
+        text-align: center;
+        margin-top: 20vw;
+    }
+    .legenda{
+        color: #FFF;
+        font-family: "Kodchasan", sans-serif;
+        font-size: 2vw;
+    }
+    .legenda2{
+        color: #FFF;
+        font-family: "Kodchasan", sans-serif;
+        font-size: 2vw;
+        position: relative;
+        left: 5vw;
+    }
+    .legenda3{
+        color: #FFF;
+        font-family: "Kodchasan", sans-serif;
+        font-size: 2vw;
+        position: relative;
+        left: 11.5vw;
+    }
+    .legenda4{
+        color: #FFF;
+        font-family: "Kodchasan", sans-serif;
+        font-size: 2vw;
+        position: relative;
+        left: 9vw;
+    }
+    .divisor1{
+        width: 100%;
+        height: 3vw;
+    }
+    .linedivisor{
+        width: 90%;
+        margin-left: 5%;
+        background-color: black;
+        height: 5.3vw;
+    }
+    }

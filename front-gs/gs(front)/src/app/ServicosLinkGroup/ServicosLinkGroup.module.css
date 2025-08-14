@@ -1,0 +1,114 @@
+.container {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #c5edcc;
+}
+@media (min-width: 320px) and (max-width: 1240px) {
+    .conteudo {
+    
+        width: 80%;
+        max-width: 35rem;
+        padding: 1.5rem;
+        margin-top: 10vw;
+        background-color: #c5edcc;
+    }
+    .titulo {
+        font-size: 2rem;
+        font-family: "Kodchasan", sans-serif;
+    }
+    .link {
+        font-size: 1.1rem;
+        padding: 0.7rem 1.2rem;
+        font-family: "Kodchasan", sans-serif;
+    }
+    .voltar {
+        width: 80%;
+        height: 6vw;
+        border-radius: 1.5vw;
+        font-size: 1.8vw;
+        padding-top: 1.2vw;
+        font-family: "Kodchasan", sans-serif;
+    }
+    .divisor {
+        height: 0.4vw;
+    }
+.container {
+    background-color:#cde5f5 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 2rem;
+    padding-bottom: 10vw;
+}
+.conteudo {
+    background: linear-gradient(to right, #47BFDF, #4A91FF);
+    width: 60%;
+    max-width: 40rem;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 15vw;
+}
+.titulo {
+    color: white;
+    font-family: "Kodchasan", sans-serif;
+    font-size: 5vw;
+    margin-bottom: 2rem;
+
+}
+.centralizando {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+.link {
+    display: block;
+    background-color: #fff;
+    color: #333;
+    text-decoration: none;
+    font-size: 1.5vw;
+    font-weight: 500;
+    padding: 0.8rem 1.5rem;
+    border-radius: 0.5rem;
+    width: 77%;
+    text-align: center;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    font-family: "Kodchasan", sans-serif;
+}
+.link:hover {
+    background-color: #4A91FF;
+    color: #000;
+}
+.voltar {
+    margin-top: 2rem;
+    font-size: 1rem;
+    color: black;
+    background-color: #4af3ff;
+    width: 78%;
+    height: 5vw;
+    border-radius: 1vw;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    cursor: pointer;
+    margin-top: -1vw;
+    font-size: 2vw;
+    padding-top: 1.5vw;
+    font-family: "Kodchasan", sans-serif;
+}
+.voltar:hover
+{
+    background-color: #FFF;
+}
+.divisor {
+    margin: 1.5rem 0;
+    width: 75%;
+    height: 0.3vw;
+    background-color: white;
+}
+}
+

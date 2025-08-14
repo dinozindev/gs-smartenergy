@@ -1,0 +1,202 @@
+@media screen and (min-width: 741px) and (max-width: 1024px) {
+.imgmaior{
+    width: 50%;
+    height: 60vw;
+    margin-bottom: 5vw;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 10vw;
+    align-items: center;
+}
+.titulo{
+    text-align: center;
+    margin-bottom: 30vw;
+    position: relative;
+    left: 20vw;
+    font-family: "Kodchasan", sans-serif;
+    font-size: 3vw;
+}
+.formulario input{
+    width: 35vw;
+    position: relative;
+    right: 3.5vw;
+    margin-bottom: 3vw;
+    height: 3vw;
+    font-family: "Kodchasan", sans-serif;
+    background-color: #ECEAEA;
+    font-size: 2vw;
+    text-align: center;
+}
+.input::placeholder{
+    height: 3vw;
+    font-size: 1vw;
+    text-align: center;
+    font-family: "Kodchasan", sans-serif;
+}
+.input {
+    border: none;
+    border-radius: 1vw;
+    height: 4vw;
+    margin-left: 1vw;
+    width: 80vw;
+    font-family: "Kodchasan", sans-serif;
+}
+.divisor1{
+    background-color: black;
+    height: 0.3vw;  
+    width: 40%;
+    margin-top: 1vw;
+    position: relative;
+    right: 2vw;
+}
+.divisor2{
+    background-color: black;
+    height: 0.3vw;
+    width: 40%;
+    margin-left: 17.5vw;
+    margin-top: -0.4vw;
+}
+.botao{
+    background-color: #047CCC;
+    width: 35vw;
+    height: 3vw;
+    border-radius: 1vw;
+    position: relative;
+    right:2.5vw;
+    margin-top: 2vw;
+    border: none;
+    color: #FFF;
+    font-family: "Kodchasan", sans-serif;
+}
+.linkCadastro{
+    font-size: 1.1vw;
+    margin-top: -8vw;
+    margin-left: -2vw;
+    font-family: "Kodchasan", sans-serif;
+}
+.desistirbotao{
+    background-color: #ffb3b4;
+    text-decoration: none;
+    margin-top: 2vw;
+    height: 2.5vw;
+    border-radius: 1vw;
+    width: 35vw;
+    display: flex;
+    justify-content: center;
+    font-family: "Kodchasan", sans-serif;
+    align-items: center;
+    margin-left: -2.5vw;
+    margin-top: 8vw;
+    font-family: "Kodchasan", sans-serif;
+}
+.voltabotao{
+    text-decoration: none;
+    color: black;
+    font-family: "Kodchasan", sans-serif;
+}
+}
+@media screen and (min-width: 320px) and (max-width: 740px) {
+    .imgmaior{
+        width: 50%;
+        height: 60vw;
+        margin-bottom: 5vw;
+    }
+    .container{
+        display: flex;
+        justify-content: center;
+        margin-top: 10vw;
+        align-items: center;
+    }
+    .titulo{
+        text-align: center;
+        margin-bottom: 30vw;
+        position: relative;
+        left: 20vw;
+        font-family: "Kodchasan", sans-serif;
+        font-size: 3vw;
+    }
+    .formulario input{
+        width: 35vw;
+        position: relative;
+        right: 3.5vw;
+        margin-bottom: 3vw;
+        height: 3vw;
+        font-family: "Kodchasan", sans-serif;
+        background-color: #ECEAEA;
+        font-size: 2vw;
+        text-align: center;
+    }
+    .input::placeholder{
+        height: 3vw;
+        font-size: 2vw;
+        text-align: center;
+        font-family: "Kodchasan", sans-serif;
+    }
+    .input {
+        border: none;
+        border-radius: 1vw;
+        height: 4vw;
+        margin-left: 1vw;
+        width: 80vw;
+        font-family: "Kodchasan", sans-serif;
+    }
+    .divisor1{
+        background-color: black;
+        height: 0.3vw;  
+        width: 40%;
+        margin-top: 1vw;
+        position: relative;
+        right: 2vw;
+    }
+    .divisor2{
+        background-color: black;
+        height: 0.3vw;
+        width: 40%;
+        margin-left: 17.5vw;
+        margin-top: -0.4vw;
+    }
+    .botao{
+        background-color: #047CCC;
+        width: 35vw;
+        height: 3vw;
+        border-radius: 1vw;
+        position: relative;
+        right:2.5vw;
+        margin-top: 2vw;
+        border: none;
+        color: #FFF;
+        font-family: "Kodchasan", sans-serif;
+        font-size: 2vw;
+    }
+    .linkCadastro{
+        font-size: 1.1vw;
+        margin-top: -8vw;
+        margin-left: -2vw;
+        font-family: "Kodchasan", sans-serif;
+    }
+    .desistirbotao{
+        background-color: #ffb3b4;
+        text-decoration: none;
+        margin-top: 2vw;
+        height: 2.5vw;
+        border-radius: 1vw;
+        width: 35vw;
+        display: flex;
+        justify-content: center;
+        font-family: "Kodchasan", sans-serif;
+        align-items: center;
+        margin-left: -2.5vw;
+        margin-top: 8vw;
+        font-family: "Kodchasan", sans-serif;
+
+        font-size: 2vw;
+    }
+    .voltabotao{
+        text-decoration: none;
+        color: black;
+        font-family: "Kodchasan", sans-serif;
+        font-size: 2vw;
+    }
+    }

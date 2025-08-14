@@ -1,0 +1,37 @@
+Exemplos de Requisições
+
+Busque utilizar valores próximos a 1000 ou menores (exceto população) para uma maior precisão.
+
+Para Regressão (Regressão de emissão de carbono):
+POST - http://127.0.0.1:5000/predict_regression_carbon
+
+{
+  "coal_electricity": 10.0,                  // geração em TWh ao ano a partir de carvão
+  "biofuel_electricity": 12.5,               // geração em TWh ao ano a partir de biocombustível
+  "fossil_electricity": 150.0,               // geração em TWh ao ano a partir de combustíveis fósseis
+  "gas_electricity": 120.0,                  // geração em TWh ao ano a partir de gases naturais
+  "hydro_electricity": 400.0,                // geração em TWh ao ano a partir de hidrelétricas
+  "nuclear_electricity": 16.0,               // geração em TWh ao ano a partir de usinas nucleares
+  "oil_electricity": 20.0,                   // geração em TWh ao ano a partir de óleo
+  "other_renewable_exc_biofuel_electricity": 10.0, // geração em TWh ao ano a partir de outras fontes renováveis (geotérmica, maré)
+  "solar_electricity": 15.0,                 // geração em TWh ao ano a partir de energia solar
+  "wind_electricity": 70.0                   // geração em TWh ao ano a partir de energia eólica
+}
+
+Para Classificação (Classificação de continente):
+POST - http://127.0.0.1:5000/predict_classification_continent
+
+{
+  "population": 215000000,                   // população do país
+  "coal_electricity": 10.0,                  // geração em TWh ao ano a partir de carvão
+  "biofuel_electricity": 12.5,               // geração em TWh ao ano a partir de biocombustível
+  "fossil_electricity": 150.0,               // geração em TWh ao ano a partir de combustíveis fósseis
+  "gas_electricity": 120.0,                  // geração em TWh ao ano a partir de gases naturais
+  "hydro_electricity": 400.0,                // geração em TWh ao ano a partir de hidrelétricas
+  "nuclear_electricity": 16.0,               // geração em TWh ao ano a partir de usinas nucleares
+  "oil_electricity": 20.0,                   // geração em TWh ao ano a partir de óleo
+  "other_renewable_exc_biofuel_electricity": 10.0, // geração em TWh ao ano a partir de outras fontes renováveis (geotérmica, maré)
+  "solar_electricity": 15.0,                 // geração em TWh ao ano a partir de energia solar
+  "wind_electricity": 70.0,                  // geração em TWh ao ano a partir de energia eólica
+  "greenhouse_gas_emissions": 480.0          // emissões de gás carbono em milhões de toneladas ao ano
+}

@@ -1,0 +1,54 @@
+@media screen and (min-width: 320px) and (max-width: 1024px) {
+.negrito{
+    font-family: "Kodchasan", sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+.texto{
+    font-family: "Kodchasan", sans-serif;
+    font-weight: 400;
+    text-align: left;
+    width: 40%;
+    line-height: 3vw;
+    margin-left: 10%;
+    margin-top: 20vw;
+}
+.espaco{
+    height: 0vw;
+}
+.imgLOGO{
+    width: 30VW;
+    height: 27VW;
+    margin-left: 65%;
+    margin-top: -20vw;
+}
+.texto2{
+    font-family: "Kodchasan", sans-serif;
+    font-weight: 400;
+    text-align: left;
+    width: 40%;
+    line-height: 3vw;
+    margin-left: 10%;
+    margin-top: 10vw;
+    margin-bottom: 5vw;
+}
+.texto3{
+    font-family: "Kodchasan", sans-serif;
+    font-weight: 400;
+    text-align: left;
+    width: 40%;
+    line-height: 3vw;
+    margin-left: 10%;
+    margin-top: 5vw;
+}
+.texto4{
+    font-family: "Kodchasan", sans-serif;
+    font-weight: 400;
+    text-align: left;
+    width: 40%;
+    line-height: 3vw;
+    margin-left: 10%;
+    margin-top: 0vw;
+    margin-bottom: 10vw;
+}
+}

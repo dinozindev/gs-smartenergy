@@ -1,0 +1,152 @@
+@media screen and (min-width: 320px) and (max-width: 740px) {
+    .titulo{
+        font-family: "Kodchasan", sans-serif;
+        text-align: center;
+        width: 60%;
+        margin-left: 20%;
+        margin-top: 20vw;
+        font-size: 3vw;
+    }
+    .texto{
+        font-family: "Kodchasan", sans-serif;
+        text-align: center;
+        width: 60%;
+        margin-left: 20%;
+        font-size: 1.5vw;
+    }
+    .formulario{
+        background: linear-gradient(to bottom, #47BFDF, #4A91FF);
+        padding-top: 5vw;
+        padding-bottom: 5vw;
+        width: 70%;
+        margin-left: 15%;
+        border-radius: 1vw;
+        margin-top: 5vw;
+        margin-bottom: 5vw;
+    }
+    .label{
+        color: white;
+        font-family: "Kodchasan", sans-serif;
+        text-align: left;
+        font-size: 1.5vw;
+        width: 100%;
+        margin-left: 3vw;
+    }
+    .input{
+        width: 60%;
+        border: none;
+        height: 2.5vw;
+        margin-left: 3vw;
+        margin-top: 2vw;
+        border-radius: 1vw;
+        margin-bottom: 2vw;
+    }
+    .divisor{
+        width: 90%;
+        height: 0.3vw;
+        background-color: black;
+        margin-left: 3%;
+        margin-top: 1VW;
+        margin-bottom: 3vw;
+    }
+    .botao{
+        background-color: white;
+        border: none;
+        width: 60%;
+        height: 4vw;
+        font-family: "Kodchasan", sans-serif;
+        font-size: 2vw;
+        border-radius: 1vw;
+        margin-left: 20%;
+        margin-bottom: 3vw;
+    }
+    .botao:hover{
+        border: 0.3vw solid rgb(51, 0, 255);
+        background-color: #47BFDF;
+        color: white;
+    }
+    .resultado{
+        color: #fff;
+        font-size: 3vw;
+        width: 80%;
+        text-align: center;
+        margin-left: 10%;
+        font-family: "Kodchasan", sans-serif;
+    }
+    }
+@media screen and (min-width: 741px) and (max-width: 1024px) {  
+.titulo{
+    font-family: "Kodchasan", sans-serif;
+    text-align: left;
+    width: 70%;
+    margin-left: 6%;
+    margin-top: 20vw;
+    font-size: 4vw;
+}
+.texto{
+    width: 100%;
+    font-family: "Kodchasan", sans-serif;
+    margin-left: 6%;
+    width: 80%;
+    font-size: 2vw;
+}
+.formulario{
+    background: linear-gradient(to bottom, #47BFDF, #4A91FF);
+    padding-top: 5vw;
+    padding-bottom: 5vw;
+    width: 90%;
+    margin-left: 5%;
+    border-radius: 1vw;
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+}
+.label{
+    color: white;
+    font-family: "Kodchasan", sans-serif;
+    text-align: left;
+    font-size: 2vw;
+    width: 100%;
+    margin-left: 3vw;
+}
+.input{
+    width: 60%;
+    border: none;
+    height: 2.5vw;
+    margin-left: 3vw;
+    margin-top: 2vw;
+    border-radius: 1vw;
+    margin-bottom: 2vw;
+}
+.divisor{
+    width: 90%;
+    height: 0.3vw;
+    background-color: black;
+    margin-left: 3%;
+    margin-top: 1VW;
+    margin-bottom: 3vw;
+}
+.botao{
+    background-color: white;
+    border: none;
+    width: 60%;
+    height: 4vw;
+    font-family: "Kodchasan", sans-serif;
+    font-size: 2vw;
+    border-radius: 1vw;
+    margin-left: 20%;
+    margin-bottom: 3vw;
+}
+.botao:hover{
+    border: 0.3vw solid rgb(51, 0, 255);
+    background-color: #47BFDF;
+    color: white;
+}
+.resultado{
+    color: #fff;
+    font-size: 3vw;
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+    font-family: "Kodchasan", sans-serif;
+}
+}

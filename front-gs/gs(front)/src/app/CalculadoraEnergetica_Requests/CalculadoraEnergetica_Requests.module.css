@@ -1,0 +1,150 @@
+@media screen and (min-width: 741px) and (max-width: 1024px) {
+.titulopagina{
+    font-family: "Kodchasan", sans-serif;
+    font-size: 4vw;
+    text-align: center;
+    margin-top: 20vw;
+    width: 60%;
+    margin-left: 20%;
+}
+.textosimples{
+    font-family: "Kodchasan", sans-serif;
+    font-size: 2vw;
+    text-align: center;
+    width: 80%;
+    margin-left: 10%;
+    color: #2b2b2b;
+}
+.inputkhw{
+    background-color: #cde5f5;
+    padding: 3vw;
+    width: 60%;
+    margin-left: 20%;
+    border-radius: 1vw;
+    margin-top: 10vw;
+}
+.input1{
+    border: none;
+    width: 60%;
+    height: 3vw;
+    text-align: center;
+    color: black;
+    height: 3vw;
+    border-radius: 1vw;
+    margin-left: 20%;
+    font-size: 2vw;
+}
+.central{
+    align-items: center;
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+    height: 3vw;
+    font-size: 2vw;
+    border: none;
+    border-radius: 1vw;
+    color: #2b2b2b;
+    margin-bottom: 3vw;
+}
+.inputkhw1{
+    background-color: #047CCC;
+    padding: 2vw;
+    width: 60%;
+    margin-left: 20%;
+    border-radius: 1vw;
+    margin-top: 5vw;
+    border: none;
+    font-family: "Kodchasan", sans-serif;
+    font-weight: 700;
+    font-size: 3vw;
+    color: #FFF;
+}
+.inputkhw2{
+    background-color: #047CCC;
+    padding: 2vw;
+    width: 60%;
+    margin-left: 20%;
+    border-radius: 1vw;
+    margin-top: 2vw;
+    border: none;
+    font-family: "Kodchasan", sans-serif;
+    font-weight: 700;
+    font-size: 3vw;
+    color: #FFF;
+}
+}
+@media screen and (min-width: 320px) and (max-width: 740px) {
+    .titulopagina{
+        font-family: "Kodchasan", sans-serif;
+        font-size: 4vw;
+        text-align: center;
+        margin-top: 20vw;
+        width: 60%;
+        margin-left: 20%;
+    }
+    .textosimples{
+        font-family: "Kodchasan", sans-serif;
+        font-size: 2vw;
+        text-align: center;
+        width: 80%;
+        margin-left: 10%;
+        color: #2b2b2b;
+    }
+    .inputkhw{
+        background-color: #cde5f5;
+        padding: 3vw;
+        width: 60%;
+        margin-left: 20%;
+        border-radius: 1vw;
+        margin-top: 10vw;
+    }
+    .input1{
+        border: none;
+        width: 60%;
+        height: 3vw;
+        text-align: center;
+        color: black;
+        height: 3vw;
+        border-radius: 1vw;
+        font-size: 2vw;
+        margin-left: 20%;
+    }
+    .central{
+        align-items: center;
+        text-align: center;
+        width: 60%;
+        margin-left: 20%;
+        height: 3vw;
+        font-size: 2vw;
+        border: none;
+        border-radius: 1vw;
+        color: #2b2b2b;
+        margin-bottom: 3vw;
+    }
+    .inputkhw1{
+        background-color: #047CCC;
+        padding: 2vw;
+        width: 60%;
+        margin-left: 20%;
+        border-radius: 1vw;
+        margin-top: 5vw;
+        border: none;
+        font-family: "Kodchasan", sans-serif;
+        font-weight: 700;
+        font-size: 2vw;
+        color: #FFF;
+    }
+    .inputkhw2{
+        background-color: #047CCC;
+        padding: 2vw;
+        width: 60%;
+        margin-left: 20%;
+        border-radius: 1vw;
+        margin-top: 2vw;
+        font-size: 2vw;
+        border: none;
+        font-family: "Kodchasan", sans-serif;
+        font-weight: 700;
+        color: #FFF;
+    }
+    }

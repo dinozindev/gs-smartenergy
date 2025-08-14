@@ -1,0 +1,48 @@
+@media screen and (min-width: 320px) and (max-width: 1024px) {
+.title{
+    font-family: "Kodchasan", sans-serif;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 20VW;
+    margin-bottom: 10vw;
+}
+.DivContent{
+    font-family: "Kodchasan", sans-serif;
+    font-weight: 400;
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 5vw;
+    text-align: center;
+    background-color: #cde5f5;
+    padding-bottom: 5vw;
+    margin-bottom: 5vw;
+}
+.DivContent p{
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 2vw;
+}
+.voltar{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: "Kodchasan", sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 3vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    border-radius: 1vw;
+    margin-left: 34vw;
+    background-color: #047CCC;
+}
+.DivEspaco{
+    height: 5vw;
+}
+.voltar:hover{
+    background-color: #3e97d1;
+    border: 0.3vw solid #047CCC;
+    color: black;
+}
+}

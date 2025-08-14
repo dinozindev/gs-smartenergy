@@ -1,0 +1,96 @@
+@media screen and (min-width: 320px) and (max-width: 1024px) {
+.estilo01{
+    font-size: 3vw;
+    font-family: "Kodchasan", sans-serif;
+    font-weight: 400;
+    margin-top: 20vw;
+    margin-left: 5vw;
+    font-weight: 700;
+}
+.paragrafo01{
+    margin-left: 5vw;
+    font-size: 2vw;
+    width: 60%;
+    font-family: "Kodchasan", sans-serif;
+}
+.estilo02{
+    font-size: 3vw;
+    font-family: "Kodchasan", sans-serif;
+    font-weight: 400;
+    margin-top: 10vw;
+    margin-left: 5vw;
+    font-weight: 700;
+}
+.paragrafo02{
+    
+        margin-left: 5vw;
+        font-size: 2vw;
+        width: 50%;
+        font-family: "Kodchasan", sans-serif;
+        line-height: 4vw;
+}
+.container{
+    background-color: #cde5f5 ;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5vw;
+    border-radius: 01vw;
+}
+.titulodiv{
+    text-align: center;
+    padding-top: 5vw;
+    font-size: 4vw;
+    font-family: "Kodchasan", sans-serif;
+    color: #000;
+    margin-bottom: 5VW;
+}
+.input{
+    width: 70%;
+    height: 4vw;
+    border: none;
+    border-radius: 1vw;
+    margin-left: 15%;
+    text-align: center;
+    color: #252525;
+    font-size: 2vw;
+    margin-bottom: 4vw;
+}
+.botao{
+    background-color: #047CCC;
+    border: none;
+    width: 70%;
+    height: 4vw;
+    border-radius: 1vw;
+    margin-left: 15%;
+    color: white;
+    font-family: "Kodchasan", sans-serif;
+    font-weight: 700;
+    font-size: 2vw;
+}
+.divisor{
+    width: 70%;
+    height: 0.3vw;
+    background-color: black;
+    margin-left: 15%;
+    margin-top: 5VW;
+}
+.tituloresukltadio{
+    font-family: "Kodchasan", sans-serif;
+    color: #000000;
+    margin-left: 11.5vw;
+    margin-top: 6vw;
+    font-size: 3.5vw;
+}
+.paragraforesultado{
+    font-size: 2.3vw;
+    width: 75%;
+    margin-left: 13%;
+}
+.paragraforesultadoultimo{
+    font-size: 2.3vw;
+    width: 75%;
+    margin-left: 13%;
+    padding-bottom: 7vw;
+}
+
+}

@@ -1,0 +1,70 @@
+
+@media screen and (min-width: 320px) and (max-width: 30024px) {
+.container{
+    background-image: url("../../public/Imagens/windm\,ill\ \(2\).jpg");
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+    height: 110vh;
+    width: 100%;
+}
+.logo{
+    width: 7vw;
+    height: 6vw;
+    margin-left: 5vw;
+    margin-top: 5vw;
+}
+.link{
+    color: white;
+    font-size: 2vw;
+    text-decoration: none;
+    margin-left: 2vw;
+    position: relative;
+    left: 15vw;
+    top: -2vw;
+    font-family: "Kodchasan", sans-serif;
+}
+.titulo
+{
+    color: #FFE976;
+    font-family: "Kodchasan", sans-serif;
+    width: 50%;
+    font-size: 3vw;
+    margin-top: 17vw;
+    margin-left: 5vw;
+}
+.texto{
+    color: white;
+    font-family: "Kodchasan", sans-serif;
+    margin-left: 5vw;
+    font-size: 2.5vw;
+    width: 40%;
+    margin-top: 2vw;
+}
+.botao{
+    background-color: white;
+    font-size: 1.5vw;
+    text-decoration: none;
+    color: #000;
+    font-family: "Kodchasan", sans-serif;
+    width: 30%;
+    margin-left: 5VW;
+    position: relative;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    border-radius: 2vw;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    top: 3vw;
+    background: #fff; 
+    background-size: 0% 100%; 
+    transition: background-size 0.5s ease; 
+    border: 2px solid transparent; 
+}
+.botao:hover{
+    background: linear-gradient(to right, #47BFDF, #4A91FF);
+    background-size: 100% 100%;
+    color: #fff   ;
+}
+
+}
